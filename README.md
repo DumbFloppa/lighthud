@@ -4,7 +4,9 @@
 
 This is mainly made of other HUD's this is mostly just LightHUD and DarHUD combined and with some elements i plan to add like the Aachievements and training, etc...
 
-Here are some of the screenshots, full album [HERE](../screenshots/showcase.md) NOTE: My fork doesn't have screenshots yet so the screenshots will just be the vanilla LightHUD
+Here are some of the screenshots, full album [HERE](../screenshots/showcase.md) 
+
+NOTE: My fork doesn't have screenshots yet so the screenshots will just be the vanilla LightHUD
 
 ![](../screenshots/01_Main_Menu.jpg?raw=true)
 ![](../screenshots/09_Team_Selection.jpg?raw=true)
