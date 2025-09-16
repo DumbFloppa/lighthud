@@ -6,7 +6,7 @@ This is mainly made of other HUD's this is mostly just LightHUD and DarHUD combi
 
 Here are some of the screenshots, full album [HERE](../screenshots/showcase.md) 
 
-NOTE: My fork doesn't have screenshots yet so the screenshots.
+NOTE: My fork doesn't have screenshots yet.
 
 ![](../screenshots/01_Main_Menu.jpg?raw=true)
 ![](../screenshots/09_Team_Selection.jpg?raw=true)
