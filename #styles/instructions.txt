@@ -17,6 +17,6 @@ To apply any style customization:
 //=============================================================================
 
 The no_friends_list folder features an override version of the main menu
-this version re-disables the friends list for any user that wish to have it,
+this version re-disables the friends list for any user that wish to not have it,
 
 You can follow the same instruction above to enable it.
