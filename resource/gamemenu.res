@@ -2,8 +2,8 @@
 {
 	"LightHUD"
 	{
-		"label"									"LightHUD"
-		"command"								"engine con_enable 1; toggleconsole; echo LightHUD by Hypnotize"
+		"label"									"console"
+		"command"								"engine con_enable 1; toggleconsole"
 	}
 	"Servers"
 	{
@@ -28,7 +28,7 @@
 	}
 	"Advanced Options"
 	{
-		"label"									"adv.options"
+		"label"									"advanced"
 		"command"								"opentf2options"
 	}
 	"Contracker"
